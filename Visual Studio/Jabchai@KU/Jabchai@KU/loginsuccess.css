@@ -1,7 +1,7 @@
 ﻿body {
     padding: 0;
     margin: 0;
-    font-family: 'Sukhumvit Set', sans-serif;
+    font-family: "Sukhumvit Set", monospace;
     background-color: rgb(220, 220, 220);
 }
 
@@ -195,4 +195,18 @@
     /*background-color: lightseagreen;*/
     background-size: 100%;
     background-repeat: no-repeat;
+}
+
+
+
+.div_login_success
+{
+    font-size: 18px;
+    font-family: 'Kanit', sans-serif;
+    color:white;
+}
+
+.div_login_heading
+{
+    font-size: 30px;
 }
