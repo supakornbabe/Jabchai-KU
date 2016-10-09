@@ -1,0 +1,2 @@
+.sln เป็นไฟล์ solution ของ visual studio ถ้าใครจะเอาไปแก้ก้เปิดไฟล .sln ใน visual studio นะ
+https://github.com/babebeebaboo/Jabchai-KU/tree/master/Visual%20Studio/Jabchai%40KU/Jabchai%40KU ลิ้งเข้า source code เว็บ
