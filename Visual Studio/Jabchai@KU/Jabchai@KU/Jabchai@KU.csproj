@@ -23,16 +23,16 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app.css" />
-    <Content Include="COMMUNITY.png" />
-    <Content Include="CONTACT US.png" />
-    <Content Include="ID.png" />
+    <Content Include="icon\COMMUNITY.png" />
+    <Content Include="icon\CONTACT US.png" />
+    <Content Include="icon\ID.png" />
+    <Content Include="icon\ku carlendar.png" />
+    <Content Include="icon\KU NEWS.png" />
+    <Content Include="icon\ku_logo.png" />
+    <Content Include="icon\logojabchai.png" />
+    <Content Include="icon\PASS.png" />
+    <Content Include="icon\review subsject.png" />
     <Content Include="index.html" />
-    <Content Include="ku carlendar.png" />
-    <Content Include="KU NEWS.png" />
-    <Content Include="ku_logo.png" />
-    <Content Include="logojabchai.png" />
-    <Content Include="PASS.png" />
-    <Content Include="review subsject.png" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
