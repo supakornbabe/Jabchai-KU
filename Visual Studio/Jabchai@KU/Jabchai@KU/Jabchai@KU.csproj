@@ -33,6 +33,8 @@
     <Content Include="icon\PASS.png" />
     <Content Include="icon\review subsject.png" />
     <Content Include="index.html" />
+    <Content Include="loginsuccess.css" />
+    <Content Include="loginsuccess.html" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
