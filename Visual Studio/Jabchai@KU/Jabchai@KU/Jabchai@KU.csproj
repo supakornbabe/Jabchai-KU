@@ -22,6 +22,13 @@
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="contactus\contactus.png" />
+    <Content Include="contactus\index.html" />
+    <Content Include="contactus\JABCHAIword.png" />
+    <Content Include="contactus\ku_logo.png" />
+    <Content Include="contactus\logojabchai.png" />
+    <Content Include="contactus\stylesheet.css" />
+    <Content Include="contactus\submit.html" />
     <Content Include="css\app.css" />
     <Content Include="icon\COMMUNITY.png" />
     <Content Include="icon\CONTACT US.png" />
@@ -35,15 +42,29 @@
     <Content Include="index.html" />
     <Content Include="css\loginsuccess.css" />
     <Content Include="loginsuccess.html" />
+    <Content Include="review\fonts\leelawad.ttf" />
+    <Content Include="review\fonts\Superspace Bold Italic.ttf" />
+    <Content Include="review\fonts\Superspace Light.ttf" />
     <Content Include="review\index.html" />
     <Content Include="review\math1\fin.html" />
+    <Content Include="review\math1\Fin.png" />
+    <Content Include="review\math1\Grade.png" />
     <Content Include="review\math1\index.html" />
+    <Content Include="review\math1\JABCHAIword.png" />
+    <Content Include="review\math1\ku_logo.png" />
+    <Content Include="review\math1\logojabchai.png" />
     <Content Include="review\math1\mid.html" />
+    <Content Include="review\math1\Mid.png" />
     <Content Include="review\math1\score.html" />
     <Content Include="review\math1\stylesheet.css" />
     <Content Include="review\physics1\fin.html" />
+    <Content Include="review\physics1\Fin.png" />
+    <Content Include="review\physics1\Grade.png" />
     <Content Include="review\physics1\index.html" />
+    <Content Include="review\physics1\ku_logo.png" />
+    <Content Include="review\physics1\logojabchai.png" />
     <Content Include="review\physics1\mid.html" />
+    <Content Include="review\physics1\Mid.png" />
     <Content Include="review\physics1\score.html" />
     <Content Include="review\physics1\stylesheet.css" />
     <Content Include="review\stylesheet.css" />
@@ -53,9 +74,6 @@
     <TypeScriptCompile Include="script\app.ts" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="review\fonts\leelawad.ttf" />
-    <Content Include="review\fonts\Superspace Bold Italic.ttf" />
-    <Content Include="review\fonts\Superspace Light.ttf" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
