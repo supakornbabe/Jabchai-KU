@@ -22,7 +22,7 @@
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="app.css" />
+    <Content Include="css\app.css" />
     <Content Include="icon\COMMUNITY.png" />
     <Content Include="icon\CONTACT US.png" />
     <Content Include="icon\ID.png" />
@@ -33,14 +33,29 @@
     <Content Include="icon\PASS.png" />
     <Content Include="icon\review subsject.png" />
     <Content Include="index.html" />
-    <Content Include="loginsuccess.css" />
+    <Content Include="css\loginsuccess.css" />
     <Content Include="loginsuccess.html" />
+    <Content Include="review\index.html" />
+    <Content Include="review\math1\fin.html" />
+    <Content Include="review\math1\index.html" />
+    <Content Include="review\math1\mid.html" />
+    <Content Include="review\math1\score.html" />
+    <Content Include="review\math1\stylesheet.css" />
+    <Content Include="review\physics1\fin.html" />
+    <Content Include="review\physics1\index.html" />
+    <Content Include="review\physics1\mid.html" />
+    <Content Include="review\physics1\score.html" />
+    <Content Include="review\physics1\stylesheet.css" />
+    <Content Include="review\stylesheet.css" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="app.ts" />
+    <TypeScriptCompile Include="script\app.ts" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="review\fonts\leelawad.ttf" />
+    <Content Include="review\fonts\Superspace Bold Italic.ttf" />
+    <Content Include="review\fonts\Superspace Light.ttf" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>

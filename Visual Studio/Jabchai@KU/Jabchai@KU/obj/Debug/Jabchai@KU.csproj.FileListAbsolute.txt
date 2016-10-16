@@ -1,0 +1,5 @@
+C:\Users\supakornba\Desktop\Innovative Project\Jabchai-KU\Visual Studio\Jabchai@KU\Jabchai@KU\bin\Jabchai@KU.dll.config
+C:\Users\supakornba\Desktop\Innovative Project\Jabchai-KU\Visual Studio\Jabchai@KU\Jabchai@KU\bin\Jabchai@KU.dll
+C:\Users\supakornba\Desktop\Innovative Project\Jabchai-KU\Visual Studio\Jabchai@KU\Jabchai@KU\bin\Jabchai@KU.pdb
+C:\Users\supakornba\Desktop\Innovative Project\Jabchai-KU\Visual Studio\Jabchai@KU\Jabchai@KU\obj\Debug\Jabchai@KU.dll
+C:\Users\supakornba\Desktop\Innovative Project\Jabchai-KU\Visual Studio\Jabchai@KU\Jabchai@KU\obj\Debug\Jabchai@KU.pdb

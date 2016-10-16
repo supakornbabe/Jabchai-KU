@@ -1,4 +1,5 @@
-﻿body {
+
+body {
     padding: 0;
     margin: 0;
     font-family: 'Sukhumvit Set', sans-serif;
@@ -33,7 +34,7 @@
 {
     width: 280px;
     height: 100px;
-    background-image: url(icon/ku_logo.png);
+    background-image: url('../icon/ku_logo.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -113,7 +114,7 @@
     display: inline-block;
     width: 30px;
     height: 30px;
-    background-image: url(icon/ID.png);
+    background-image: url('../icon/ID.png');
     background-size: 100%;
 }
 
@@ -138,7 +139,7 @@
     display: inline-block;
     width: 30px;
     height: 30px;
-    background-image: url(icon/PASS.png);
+    background-image: url('../icon/PASS.png');
     background-size: 100%;
 }
 

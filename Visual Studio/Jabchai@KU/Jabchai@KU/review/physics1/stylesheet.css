@@ -1,0 +1,138 @@
+/*
+    HOW TO USE GOOGLE FONTS
+    font-family: 'Noto Sans', sans-serif;
+
+    font-family:'Superspace Bold Italic', sans-serif;
+    font-family:'Superspace light', sans-serif;
+*/
+
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Sukhumvit Set', sans-serif;
+    background-color: rgb(220, 220, 220);
+    
+}
+
+#div_app
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1280px;
+    height: 768px;
+    background-color: rgb(185, 228, 190);
+}
+
+#div_content
+{
+    position: relative;
+}
+
+#div_up
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 384px;
+    background-color: rgb(185, 228,190);
+}
+#div_down{
+    position: absolute;
+    top: 384px;
+    left: 0px;
+    width: 1280px;
+    height: 384px;
+    background-color:  rgb(185, 228,190);;
+}
+#div_subject_name{
+    margin-top: 90px;
+    margin-right:90px;
+    text-align: right;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgb(60, 153, 69);
+}
+#div_subject_number{
+    margin-top: 0px;
+    margin-right:90px;
+    text-align: right;
+    font-family:'Superspace' ;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgb(60, 153, 69);
+}
+.div_inline_content{
+    display: inline-block;
+
+}
+
+#div_Box
+{
+    margin-top: 0px;
+    margin-left:90px;
+    width: 300px;
+    height: 300px;
+    background-color:rgb(60,153,69);
+}
+#div_box_content_header_MID{
+    margin-top:20px;
+    margin-left: 60px;
+    text-align:center;
+    font-size: 100px;
+    color: rgb(185,228,189);
+    font-family: 'Noto Sans', sans-serif;
+    position: absolute;
+}
+#div_box_content_header_FIN{
+    margin-top:20px;
+    margin-left: 65px;
+    text-align:center;
+    font-size: 100px;
+    color: rgb(185,228,189);
+    font-family: 'Noto Sans', sans-serif;
+    position: absolute;
+}
+#div_box_content_content{
+    position:absolute;
+    margin-left:40px;
+    margin-top:130px;
+    font-size:50px;
+    font-family: 'Noto Sans', sans-serif;
+    color: rgb(185,228,189);
+}
+#div_box_content_header_SCORE{
+    position:absolute;
+    margin-top:20px;
+    margin-left:50px;
+    margin-right:auto;
+    font-size:65px;
+    font-family: 'Noto Sans', sans-serif;
+    text-align:center;
+    color: rgb(185,228,189);
+
+}
+#div_box_content_header_AND{
+    position:absolute;
+    margin-top:90px;
+    margin-left:75px;
+    margin-right:auto;
+    font-size:65px;
+    font-family: 'Noto Sans', sans-serif;
+    text-align:center;
+    color: rgb(185,228,189);
+
+}
+#div_box_content_header_GRADING{
+    position:absolute;
+    margin-top:160px;
+    margin-left:5px;
+    margin-right:auto;
+    font-size:65px;
+    font-family: 'Noto Sans', sans-serif;
+    text-align:center;
+    color: rgb(185,228,189);
+
+}
