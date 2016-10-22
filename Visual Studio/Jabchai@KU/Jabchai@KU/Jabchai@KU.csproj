@@ -68,6 +68,7 @@
     <Content Include="review\physics1\score.html" />
     <Content Include="review\physics1\stylesheet.css" />
     <Content Include="review\stylesheet.css" />
+    <Content Include="review\table.png" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
